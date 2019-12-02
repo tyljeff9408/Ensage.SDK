@@ -461,10 +461,6 @@
     <Compile Include="Abilities\npc_dota_hero_antimage\antimage_mana_break.cs" />
     <Compile Include="Abilities\npc_dota_hero_antimage\antimage_mana_void.cs" />
     <Compile Include="Abilities\npc_dota_hero_antimage\antimage_counterspell.cs" />
-    <Compile Include="Abilities\npc_dota_hero_axe\axe_battle_hunger.cs" />
-    <Compile Include="Abilities\npc_dota_hero_axe\axe_berserkers_call.cs" />
-    <Compile Include="Abilities\npc_dota_hero_axe\axe_counter_helix.cs" />
-    <Compile Include="Abilities\npc_dota_hero_axe\axe_culling_blade.cs" />
     <Compile Include="Abilities\npc_dota_hero_broodmother\broodmother_incapacitating_bite.cs" />
     <Compile Include="Abilities\npc_dota_hero_broodmother\broodmother_insatiable_hunger.cs" />
     <Compile Include="Abilities\npc_dota_hero_broodmother\broodmother_spawn_spiderlings.cs" />
@@ -567,13 +563,6 @@
     <Compile Include="Abilities\npc_dota_hero_warlock\warlock_rain_of_chaos.cs" />
     <Compile Include="Abilities\npc_dota_hero_warlock\warlock_shadow_word.cs" />
     <Compile Include="Abilities\npc_dota_hero_warlock\warlock_upheaval.cs" />
-    <Compile Include="Abilities\npc_dota_hero_wisp\wisp_overcharge.cs" />
-    <Compile Include="Abilities\npc_dota_hero_wisp\wisp_relocate.cs" />
-    <Compile Include="Abilities\npc_dota_hero_wisp\wisp_spirits.cs" />
-    <Compile Include="Abilities\npc_dota_hero_wisp\wisp_spirits_in.cs" />
-    <Compile Include="Abilities\npc_dota_hero_wisp\wisp_spirits_out.cs" />
-    <Compile Include="Abilities\npc_dota_hero_wisp\wisp_tether.cs" />
-    <Compile Include="Abilities\npc_dota_hero_wisp\wisp_tether_break.cs" />
     <Compile Include="Abilities\npc_dota_hero_zuus\zuus_arc_lightning.cs" />
     <Compile Include="Abilities\npc_dota_hero_zuus\zuus_cloud.cs" />
     <Compile Include="Abilities\npc_dota_hero_zuus\zuus_lightning_bolt.cs" />
